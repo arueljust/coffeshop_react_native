@@ -1,0 +1,25 @@
+const Images = {
+  Banner: require("../assets/images/banner.png"),
+  BackgroudSS: require("../assets/images/bg-splashscreen.png"),
+  Profile: require("../assets/images/profile.png"),
+  SplashScreenImg: require("../assets/images/splashscreen.png"),
+  Backgroud: require("../assets/images/splashscreen_ex.png"),
+  Americano: require("../assets/images/americano.jpg"),
+  Coco: require("../assets/images/coco.jpg"),
+  CoffeMilk: require("../assets/images/coffe_milk.jpg"),
+  Caramel: require("../assets/images/caramel.jpg"),
+  AddIcon: require("../assets/icons/add.png"),
+  CoffeeIcon: require("../assets/icons/coffe.png"),
+  FilterIcon: require("../assets/icons/filter.png"),
+  HeartIcon: require("../assets/icons/Heart.png"),
+  MarkIcon: require("../assets/icons/mark.png"),
+  MasterCardIcon: require("../assets/icons/master_card.png"),
+  NotifIcon: require("../assets/icons/notif.png"),
+  PaypalIcon: require("../assets/icons/paypal.png"),
+  SearchIcon: require("../assets/icons/search.png"),
+  StarIcon: require("../assets/icons/star.png"),
+  UnlikeIcon: require("../assets/icons/unlike.png"),
+  VisaIcon: require("../assets/icons/visa.png"),
+};
+
+export default Images;
